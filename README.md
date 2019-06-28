@@ -1,2 +1,2 @@
-# ParallelImageToGreyscale
-Changing image to greyscale
+# ParallelImageToGrayscale
+Changing image to grayscale
